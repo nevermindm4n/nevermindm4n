@@ -1,16 +1,41 @@
-## Hi there 👋
+I'll keep it simple for now!
+I'm <a href="https://github.com/nevermindm4n">nevermindm4n</a> 👋
 
-<!--
-**nevermindm4n/nevermindm4n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```json
+{
+  "name": "nevermindm4n",
+  "country": "None",
+  "role": ["support", "report", "edit", "idea"],
+  "interests": ["CyberSecurity", "Ricing the rolling system", "Surfing GitHub"],
+  "date_of_death": "31/12/2051",
+  "code_lang": [".rs", ".py", ".go", ".c", ".cpp", ".js", ".html", ".css", ".lua", ".sh"]
+}
+```
 
-Here are some ideas to get you started:
+<p title="bhhmmmmm....kaaa----pfhiiii----naeeee"> ☕ Let me brew some coffee for us. While that's happening, look below for my aestheticness XD </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```bash
+> whoami
+# getuid
+nevermindm4n
+$ cat /etc/motd
+Curious mind.
+Terminal enthusiast.
+Professional tinkerer.
+Occasional breaker of things.
+```
+
+```rust
+code_lang:
+  ├── .rs      Rust
+  ├── .py      Python
+  ├── .go      Go
+  ├── .c       C
+  ├── .cpp     C++
+  ├── .js      JavaScript
+  ├── .html    HTML
+  ├── .css     CSS
+  ├── .lua     Lua
+  └── .sh      Bash
+```
+<p align="center"> <i>"If it works, don't touch it."</i><br> <i>— me, before touching it</i> </p>
