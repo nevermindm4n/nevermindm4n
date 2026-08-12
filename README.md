@@ -1,6 +1,8 @@
 I'll keep it simple for now!
 I'm <a href="https://github.com/nevermindm4n">nevermindm4n</a> 👋
 
+<img src="https://wakatime.com/badge/user/8d8bb6c5-e883-4608-b7fb-b7e0bd82fe84.svg" alt="Total time coded since Jul 22 2026" title="Total time coded since Jul 22 2026" />
+
 ```json
 {
   "name": "nevermindm4n",
